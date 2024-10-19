@@ -1,5 +1,5 @@
 # cb2_heartstrings
-**Model used:**Llama 3.1 8b instant
+**Model used:** Llama 3.1 8b instant
 
 - Added background image
 - Added CSS animations to title
